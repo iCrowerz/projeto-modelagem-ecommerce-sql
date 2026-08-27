@@ -6,7 +6,7 @@ Este projeto apresenta a estrutura e modelagem de um banco de dados relacional p
 
 ## 📌 Diagrama Entidade-Relacionamento (DER)
 
-![Diagrama do Banco de Dados](diagrama_ecommerce.png)
+![Diagrama do Banco de Dados](Diagrama E-commerce.png)
 
 ---
 
